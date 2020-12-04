@@ -1,0 +1,2 @@
+# termcap
+/opt/termcap
